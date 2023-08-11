@@ -188,6 +188,7 @@ body #carrito-dropdown {
 }
 
 body #carrito-dropdown #finalizarCompra {
+  text-decoration: none;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
